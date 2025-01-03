@@ -47,7 +47,7 @@
   }
 
   .header {
-    font-size: 4em;
+    font-size: clamp(1.4rem, 4.0vw, 4.5rem);
   }
   .img-container {
     display: flex;
