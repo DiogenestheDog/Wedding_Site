@@ -46,21 +46,26 @@
     isolation: isolate;
   }
 
-  .header {
+  /* .header {
     font-size: clamp(1.4rem, 4.0vw, 4.5rem);
-  }
+  } */
+   
   .img-container {
     display: flex;
     justify-content: center
+  }
+
+  html {
+    background-color: #aaf5b1;
   }
 
   /* #banner-img {
     max-height: 60vh;
   } */
 
-  .big-photo-frame {
+  /* .big-photo-frame {
     width: 100vw;
     height: 30vw;
     overflow: hidden;
     object-position: center bottom;
-  }
+  } */
